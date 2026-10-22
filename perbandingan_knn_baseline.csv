@@ -1,0 +1,3 @@
+Metode,Hit@5,NDCG@5
+Item-based KNN,0.0356,0.0188
+Item Populer,0.0178,0.0067

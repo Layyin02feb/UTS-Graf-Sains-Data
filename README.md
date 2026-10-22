@@ -1,4 +1,4 @@
-# UTS-Graf-Sains-Data
+# Tugas Graf Sains Data
 
 ## Deskripsi
 Proyek ini menggunakan dataset RetailRocket untuk membangun graf interaksi pengguna dan barang di Neo4j, menerapkan Vector Space Model (VSM), menghitung kemiripan antarbarang menggunakan cosine similarity, dan membuat rekomendasi menggunakan item-based KNN.
